@@ -1,0 +1,242 @@
+[
+    {
+        "text": "618 2465462987",
+        "suggested_field": "Ticket Number",
+        "x": 419,
+        "y": 110
+    },
+    {
+        "text": "RAIDI/ANJALI MISS",
+        "suggested_field": "Passenger Name",
+        "x": 98,
+        "y": 141
+    },
+    {
+        "text": "FRRP63",
+        "suggested_field": "SQ Booking Reference",
+        "x": 180,
+        "y": 170
+    },
+    {
+        "text": "E69MUV",
+        "suggested_field": "TR Booking Reference",
+        "x": 180,
+        "y": 186
+    },
+    {
+        "text": "18 Jun 2025",
+        "suggested_field": "Date of Issue",
+        "x": 511,
+        "y": 170
+    },
+    {
+        "text": "Singapore Airlines\nSsp\nLos Angeles",
+        "suggested_field": "Place of Issue",
+        "x": 510,
+        "y": 186
+    },
+    {
+        "text": "618 2465462987",
+        "suggested_field": "Ticket Number",
+        "x": 154,
+        "y": 242
+    },
+    {
+        "text": "SQ 8421",
+        "suggested_field": "Flight Number 1",
+        "x": 91,
+        "y": 262
+    },
+    {
+        "text": "Scoot",
+        "suggested_field": "Operated by 1",
+        "x": 179,
+        "y": 263
+    },
+    {
+        "text": "Economy Class (W)",
+        "suggested_field": "Class 1",
+        "x": 677,
+        "y": 262
+    },
+    {
+        "text": "Vishakhapatnam (VTZ-Vishakhapatnam/Ap/)",
+        "suggested_field": "From 1",
+        "x": 142,
+        "y": 285
+    },
+    {
+        "text": "Singapore (SIN-Changi)",
+        "suggested_field": "To 1",
+        "x": 146,
+        "y": 302
+    },
+    {
+        "text": "1",
+        "suggested_field": "Terminal To 1",
+        "x": 277,
+        "y": 302
+    },
+    {
+        "text": "Sat, 05 Jul 2025, 23:00",
+        "suggested_field": "Depart 1",
+        "x": 427,
+        "y": 285
+    },
+    {
+        "text": "Sun, 06 Jul 2025, 05:50",
+        "suggested_field": "Arrive 1",
+        "x": 427,
+        "y": 302
+    },
+    {
+        "text": "Confirmed",
+        "suggested_field": "Status 1",
+        "x": 575,
+        "y": 285
+    },
+    {
+        "text": "0",
+        "suggested_field": "Stopovers 1",
+        "x": 575,
+        "y": 302
+    },
+    {
+        "text": "05 Jul 2025",
+        "suggested_field": "Not Valid Before 1",
+        "x": 147,
+        "y": 328
+    },
+    {
+        "text": "05 Jul 2025",
+        "suggested_field": "Not Valid After 1",
+        "x": 323,
+        "y": 328
+    },
+    {
+        "text": "2 Pcs",
+        "suggested_field": "Baggage Allowance 1",
+        "x": 594,
+        "y": 328
+    },
+    {
+        "text": "SQ 036",
+        "suggested_field": "Flight Number 2",
+        "x": 91,
+        "y": 395
+    },
+    {
+        "text": "Singapore Airlines",
+        "suggested_field": "Operated by 2",
+        "x": 191,
+        "y": 396
+    },
+    {
+        "text": "Economy Class (W)",
+        "suggested_field": "Class 2",
+        "x": 677,
+        "y": 395
+    },
+    {
+        "text": "Singapore (SIN-Changi)",
+        "suggested_field": "From 2",
+        "x": 143,
+        "y": 418
+    },
+    {
+        "text": "3",
+        "suggested_field": "Terminal From 2",
+        "x": 277,
+        "y": 418
+    },
+    {
+        "text": "Los Angeles (LAX-Los Angeles Intl)",
+        "suggested_field": "To 2",
+        "x": 142,
+        "y": 435
+    },
+    {
+        "text": "B",
+        "suggested_field": "Terminal To 2",
+        "x": 280,
+        "y": 435
+    },
+    {
+        "text": "Sun, 06 Jul 2025, 18:40",
+        "suggested_field": "Depart 2",
+        "x": 427,
+        "y": 418
+    },
+    {
+        "text": "Sun, 06 Jul 2025, 19:05",
+        "suggested_field": "Arrive 2",
+        "x": 427,
+        "y": 435
+    },
+    {
+        "text": "Confirmed",
+        "suggested_field": "Status 2",
+        "x": 575,
+        "y": 418
+    },
+    {
+        "text": "0",
+        "suggested_field": "Stopovers 2",
+        "x": 575,
+        "y": 435
+    },
+    {
+        "text": "06 Jul 2025",
+        "suggested_field": "Not Valid Before 2",
+        "x": 153,
+        "y": 461
+    },
+    {
+        "text": "06 Jul 2025",
+        "suggested_field": "Not Valid After 2",
+        "x": 323,
+        "y": 461
+    },
+    {
+        "text": "2 Pcs",
+        "suggested_field": "Baggage Allowance 2",
+        "x": 594,
+        "y": 461
+    },
+    {
+        "text": "71.00A USD",
+        "suggested_field": "Total",
+        "x": 142,
+        "y": 539
+    },
+    {
+        "text": "CCVI XXXXXXXXXXXX3987 71.00 USD",
+        "suggested_field": "Form of Payment 1",
+        "x": 387,
+        "y": 542
+    },
+    {
+        "text": "618 2460508637",
+        "suggested_field": "Issued in exchange for",
+        "x": 387,
+        "y": 558
+    },
+    {
+        "text": "USD300.00 NONREF - PENALTY APPLY / NON END NO REF ON ORIG NON REF AMT-BG SQ",
+        "suggested_field": "Restrictions",
+        "x": 387,
+        "y": 574
+    },
+    {
+        "text": "Scoot",
+        "suggested_field": "Flights operated by",
+        "x": 190,
+        "y": 610
+    },
+    {
+        "text": "Scoot",
+        "suggested_field": "Carrier Reference",
+        "x": 81,
+        "y": 633
+    }
+]
