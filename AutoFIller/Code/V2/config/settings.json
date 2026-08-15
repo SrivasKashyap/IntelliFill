@@ -1,4 +1,4 @@
 {
-  "OPENAI_API_KEY": "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",
+  "OPENAI_API_KEY": "your_api_key",
   "MODEL": "gpt-4o"
 }
